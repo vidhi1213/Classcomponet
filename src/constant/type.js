@@ -1,0 +1,6 @@
+export const CREATE_HERO = "CREATE_HERO";
+// export const FEATCH_MESSAGE="FEATCH_MESSAGE";
+export const UPDATE_HERO="UPDATE_HERO";
+export const DELETE_HERO="DELETE_HERO";
+// export const CLEAR_CONTACT="CLEAR_CONTACT";
+
